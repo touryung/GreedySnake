@@ -3,8 +3,8 @@
 
 1. 安装依赖
 
-`npm install`
+   `npm install`
 
 2. 运行项目
 
-`npm run start`
+   `npm run start`
